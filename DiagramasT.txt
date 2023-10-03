@@ -1,0 +1,82 @@
+// FRAGMENTO DE CÓDIGO 1
+// OUTPUT
+/* 
+hola
+dojo
+*/
+
+// FRAGMENTO DE CÓDIGO 2
+// OUTPUT
+/* 
+hola
+El resultado es 15
+*/
+
+// FRAGMENTO DE CÓDIGO 3
+// OUTPUT
+/* 
+num es 3
+x es 18
+*/
+
+// FRAGMENTO DE CÓDIGO 4
+// OUTPUT
+/* 
+15
+10
+10
+15
+*/
+
+// FRAGMENTO DE CÓDIGO 5
+// OUTPUT
+/* 
+15
+10
+20
+15
+*/
+
+// FRAGMENTO DE CÓDIGO 6
+// OUTPUT
+/* 
+num es 3
+num es 5
+el resultado es 16
+*/
+
+// FRAGMENTO DE CÓDIGO 7
+// OUTPUT
+/* 
+5
+8
+*/
+
+// FRAGMENTO DE CÓDIGO 8
+// OUTPUT
+/* 
+2
+3
+5
+8
+*/
+
+// FRAGMENTO DE CÓDIGO 9
+// OUTPUT
+/* 
+sum es 5
+sum es 8
+el resultado es 13
+*/
+
+// FRAGMENTO DE CÓDIGO 10
+// OUTPUT
+/* 
+sum es 5
+sum es 3
+sum es 6
+sum es 3
+el resultado es 19
+sum es 5
+sum es 8
+*/
