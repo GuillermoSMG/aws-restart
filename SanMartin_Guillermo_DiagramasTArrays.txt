@@ -1,0 +1,18 @@
+/////////////////////////////////////////
+var auntContactInfo / ['Paula', 'Smith', '1234 Main Street', 'St. Louis', 'MO', 12345]
+
+OUTPUT: ['Paula', 'Smith', '1234 Main Street', 'St. Louis', 'MO', 12345]
+
+////////////////////////////////////////
+var produce      /  ['manzanas','naranjas']
+var frozen       /  ['brócoli','helado']
+var frozen       /  ['brócoli','helado', ''croquetas de papa']
+
+OUTPUT: ['brócoli','helado', ''croquetas de papa']
+
+/////////////////////////////////////////
+var movieLibrary   /   ['Bambi', 'E.T.','Toy Story']
+var movieLibrary   /   ['Bambi', 'E.T.','Toy Story', 'Zoro']
+var movieLibrary   /   ['Bambi', 'Beetlejuice','Toy Story', 'Zoro']
+
+OUTPUT: ['Bambi', 'Beetlejuice','Toy Story', 'Zoro']
