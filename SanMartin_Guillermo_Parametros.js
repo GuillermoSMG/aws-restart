@@ -15,7 +15,7 @@ const greet = name => {
     greeting = 'Buenas noches';
   }
   console.log(
-    `¡${greeting}, ${name}! ${hour}:${minutes <= 9 ? '0' : ''}${minutes}`
+    `¡${greeting}, ${name}! ${hour}:${minutes <= 9 ? '0' + minutes : minutes}`
   );
 };
 
